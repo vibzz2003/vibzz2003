@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vibzz2003
-- 👀 I’m interested in learning cloud computing and virtualisation and also learning new coding languages
-- 🌱 I’m currently learning java, c++ and cloud services 
-- 💞️ I’m looking to collaborate on minor projects just to get experience
+- 👀 I’m interested in learning cloud computing and virtualization and also learning new coding languages
+- 🌱 I’m hands-on in Java, c++, python, react, HTML, CSS, javascript and currently learning cloud services and DOCKER 
+- 💞️ I’m looking to collaborate on minor projects to upskill myself and learn
 - 📫 How to reach me - you can reach me through my email - rminocha01@gmail.com
 
 <!---
