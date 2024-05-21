@@ -145,6 +145,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vibzz2003&theme=dark&hide_border=false" alt="GitHub Streak" height="192px"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibzz2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="192px"/>
   <br/>
+  
+  ### 🔝 Top Contributed Repo
+  
+![](https://github-contributor-stats.vercel.app/api?username=vibzz2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br/>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vibzz2003&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br/>
 </details>
 
 <details>
@@ -162,15 +171,18 @@
 
 </details>
 
-### ✍️ Random Dev Quote
+<details>
+  <summary>Serious about FUN! Here's your break!</summary>
+  
+### ✍️ A wise man said:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://programmerhumor.io/wp-content/uploads/2023/09/programmerhumor-io-python-memes-backend-memes-0d75b4d5c62b5c9.jpg' style="height: 400px;"/>
+### 😂 Dev Laughs!
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-### 🐍 Snake animation
+### 🐍 Python Playground!
 ![Snake animation](https://github.com/vibzz2003/vibzz2003/blob/main/github-contribution-grid-snake.svg)
-
+</details>
 <!--<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">-->
 
 ---
