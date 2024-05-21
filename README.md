@@ -29,7 +29,7 @@
 <img src='https://programmerhumor.io/wp-content/uploads/2023/09/programmerhumor-io-python-memes-backend-memes-0d75b4d5c62b5c9.jpg' style="height: 400px;"/>
 
 ### 🐍 Snake animation
-![Snake animation](https://github.com/vibzz2003/vibzz2003/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/vibzz2003/vibzz2003/main/github-contribution-grid-snake.svg)
 
 ---
 ![](https://komarev.com/ghpvc/?username=vibzz2003&color=blue&style=plastic&abbreviated=true)
