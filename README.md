@@ -1,14 +1,17 @@
-<img src="https://raw.githubusercontent.com/vibzz2003/vibzz2003/main/ezgif.com-video-to-gif-converter.gif" alt="👋 Hi there! I'm Vibhor" title="👋 Hi there! I'm Vibhor"/>
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin-bottom: 20px;">
+  <img src="https://raw.githubusercontent.com/vibzz2003/vibzz2003/main/HeyIam-ezgif.com-optimize.gif" alt="👋 Hi there! I'm Vibhor" title="👋 Hi there! I'm Vibhor"/>
+</div>
 
-<img align="right" height="150" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" />
+<div style="display: flex; align-items: flex-start; gap: 20px;">
+  <img align="right" height="150" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" style="padding-right: 20px;" />
+  <div>
+    <p>- 🔭 I’m currently working on <a href="https://github.com/Yorichi07/darts">D.A.R.T.S</a></p>
+    <p>- 🌱 I’m currently learning <strong>Angular, Flutter, Spring</strong></p>
+    <p>- 💬 Ask me about <strong>Java, C++, C, Python</strong></p>
+    <p>- 📫 How to reach me <a href="mailto:rminocha01@gmail.com">rminocha01@gmail.com</a></p>
+  </div>
+</div>
 
-- 🔭 I’m currently working on [D.A.R.T.S](https://github.com/Yorichi07/darts)
-
-- 🌱 I’m currently learning **Angular, Flutter, Spring**
-
-- 💬 Ask me about **Java, C++, C, Python**
-
-- 📫 How to reach me **rminocha01@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/munchkin_minocha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vibhor-minocha-513b32220) 
