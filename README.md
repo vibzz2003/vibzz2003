@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vibhor Minocha</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<img src="https://raw.githubusercontent.com/vibzz2003/vibzz2003/main/ezgif.com-video-to-gif-converter.gif" alt="👋 Hi there! I'm Vibhor" title="👋 Hi there! I'm Vibhor"/>
 
 <img align="right" height="150" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" />
 
