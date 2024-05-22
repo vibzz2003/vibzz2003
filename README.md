@@ -130,8 +130,8 @@
       <br>BitBucket
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Postman" />
-      <br>NodeJS
+        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="Postman" />
+      <br>Php
     </td>
   </tr>
  <tr>
