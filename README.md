@@ -9,6 +9,7 @@
     <p>- 🌱 I’m currently learning <strong>Angular, Flutter, Spring</strong></p>
     <p>- 💬 Ask me about <strong>Java, C++, C, Python</strong></p>
     <p>- 📫 How to reach me <a href="mailto:rminocha01@gmail.com">rminocha01@gmail.com</a></p>
+    <p>- My Portfolio <a href="https://vibhorminocharesume.netlify.app/">Vibhor Minocha</a></p>
   </div>
 </div>
 
