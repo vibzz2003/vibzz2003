@@ -6,8 +6,8 @@
   <img align="right" height="150" src="https://media.giphy.com/media/L3bj6t3opdeNddYCyl/giphy.gif" style="padding-right: 20px;" />
   <div>
     <p>- 🔭 I have recently worked on <a href="https://github.com/Yorichi07/darts">D.A.R.T.S</a></p>
-    <p>- 🌱 I’m currently learning <strong> Flutter, GoLang</strong></p>
-    <p>- 💬 Ask me about <strong>Java, C++, C, Python</strong></p>
+    <p>- 🌱 I’m currently learning <strong>iOS frameworks</strong></p>
+    <p>- 💬 Ask me about <strong>Swift, Java, C++, C, Python</strong></p>
     <p>- 📫 How to reach me <a href="mailto:rminocha01@gmail.com">rminocha01@gmail.com</a></p>
     <p>- My Portfolio <a href="https://vibhorminocharesume.netlify.app/">Vibhor Minocha</a></p>
   </div>
